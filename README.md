@@ -1,7 +1,7 @@
 # Automated-Expense-Claim-Agent
 
 ## Project Goal
-To transform a static chat interface into an actionable assistant capable of processing data and performing real-world tasks—specifically, automating expense reporting.
+To transform a static chat interface into an actionable assistant capable of processing data and performing real-world tasks-specifically, automating expense reporting.
 
 ## What I Built
 I developed an action-oriented AI agent using the Microsoft Agent Framework. My objective was to move beyond simple Q&A and create an agent that could handle a business workflow: reading raw expense data, formatting a claim, and "sending" it to the finance department.
